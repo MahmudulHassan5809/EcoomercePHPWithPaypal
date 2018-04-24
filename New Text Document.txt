@@ -1,0 +1,1 @@
+http://localhost/EcommerceDiaz/public/thank_you.php?tx=1&amt=224&cc=USD&st=completed
